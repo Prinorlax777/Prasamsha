@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<defs><radialGradient id="g"><stop stop-color="#fff7f0"/><stop offset=".45" stop-color="#ffc8d4"/><stop offset="1" stop-color="#ff789b"/></radialGradient></defs>
+<rect width="1200" height="700" fill="#0d0910"/><circle cx="600" cy="350" r="170" fill="url(#g)"/>
+<ellipse cx="600" cy="350" rx="380" ry="130" fill="none" stroke="#ffb1c3" stroke-opacity=".4"/><ellipse cx="600" cy="350" rx="470" ry="190" fill="none" stroke="#ffb1c3" stroke-opacity=".25" transform="rotate(25 600 350)"/>
+<text x="600" y="385" text-anchor="middle" font-size="110" fill="white">♥</text>
+<text x="90" y="100" font-family="sans-serif" font-size="24" fill="#ffdce4">✦</text><text x="1030" y="150" font-family="sans-serif" font-size="32" fill="#ffdce4">✧</text><text x="180" y="590" font-family="sans-serif" font-size="30" fill="#ffdce4">✦</text>
+</svg>
